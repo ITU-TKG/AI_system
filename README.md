@@ -118,7 +118,9 @@ lightgbmは精度向上に向いているが計算負荷が高い、randomforest
 
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/da4971f8-e335-499d-80ce-2be27536c3c1" />  
 
-
+### 反省点  
+・自分の問題提起能力の向上が必要。  
+・また、ラベル付与の際閾値を越える度合いを考慮できた不健康の指標を作成出来たら良かったが、講義である関係上時間が足りず実現出来なかった。  
 
 
 
