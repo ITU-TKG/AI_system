@@ -1,0 +1,14 @@
+
+文部科学省data
+https://www.mext.go.jp/content/20230428-mxt_kagsei-mext_00001_012.xlsx
+
+厚生労働省計算式
+https://www.mhlw.go.jp/houdou/2004/11/h1122-2a.html
+https://www.mhlw.go.jp/www1/topics/kenko21_11/b1.html
+https://www.mhlw.go.jp/content/10904750/001316464.pdf
+
+参考
+https://qiita.com/ofutonton/items/e037c7c0aee5cdb21cbd
+https://qiita.com/K_Nemoto/items/255e4e45e1f09ab26cf6
+https://qiita.com/r2en/items/1d839a428b6080983218
+https://qiita.com/koichi_hiphopdream/items/9ad75d184aba9626c09b
