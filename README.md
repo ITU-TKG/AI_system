@@ -6,27 +6,17 @@
 submit --- 最終提出物です 整理してあるのでこちらを確認すると分かりやすいです  
 
 ### フォルダ内のファイル説明
-提出フォルダ内には説明書の他に8個のファイルが存在する。それぞれの内容をこのセクションで要約する。
-・all_fi_gbm.ipynb
---- 全特徴量を学習に回したlightGBMのソースコード
-・all_fi_rf.ipynb
---- 全特徴量を学習に回したrandomforestのソースコード
-
-・db_nutrition.csv
---- 次セクションのデータ引用元からダウンロードし名称/拡張子を変更した、前処理をして学習に使用する元データ
-
-・del_top_fi_gbm.ipynb
---- 特徴量重要度が一番大きかった特徴量を学習データから削除して学習を行う、lightGBMのソースコード
-
-・del_top5_fi_rf.ipynb
---- 特徴量重要度が大きかった上位5つの特徴量を学習データから削除して学習を行う、randomforestのソースコード
-
-・nutrition_local_20features.ipynb
---- 特徴量重要度が大きかった上位20個の特徴量以外を学習データから削除して学習を行う、randomforestのソースコード
-
-・requirements.txt
---- ソースコードで使用したライブラリとバージョンが保存してある
-
-・url.txt
---- 参考文献やデータ元のurlが記述されてある
+提出フォルダ内には説明書の他に8個のファイルが存在する。それぞれの内容をこのセクションで要約する。  
+・all_fi_gbm.ipynb  
+--- 全特徴量を学習に回したlightGBMのソースコード  
+・all_fi_rf.ipynb  
+--- 全特徴量を学習に回したrandomforestのソースコード  
+・del_top3_fi_rf.ipynb  
+--- 特徴量重要度が大きかった上位3つの特徴量を学習データから削除して学習を行う、randomforestのソースコード  
+・del_top5_fi_rf.ipynb  
+--- 特徴量重要度が大きかった上位5つの特徴量を学習データから削除して学習を行う、randomforestのソースコード  
+・del_top_fi_gbm.ipynb  
+--- 特徴量重要度が一番大きかった特徴量を学習データから削除して学習を行う、lightGBMのソースコード  
+・nutrition_local_20features.ipynb  
+--- 特徴量重要度が大きかった上位20個の特徴量以外を学習データから削除して学習を行う、randomforestのソースコード  
 
